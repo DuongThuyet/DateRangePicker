@@ -1,0 +1,4 @@
+#Fri Mar 01 10:20:34 ICT 2019
+base.0=/home/sugar/Downloads/pos/DateRangePick/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

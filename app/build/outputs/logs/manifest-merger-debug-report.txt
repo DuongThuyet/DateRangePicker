@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [:rangedatepicker] /home/sugar/Downloads/pos/DateRangePick/rangedatepicker/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e78e221ee8b1e1fe820f94d1b94d8588/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sugar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/bfab1fba2d3f0091a6b09c37db7a1c25/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cb807dbd0cf3a22a543a3d9558b4e6ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8e83b415a464ad5dc72b56923ca4ef0e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/57007b7b960e467d94a3fd9d6c42494e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/bb14573035cb9991750e0176d7da387b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9db74d03cc58e5c36a02e26c8287d9c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5afe5c7410bb7de56ce890b03dface81/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d04d2d2ce939eaf415b3d15dfa64b270/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4e4b106debc40ae3008e531b8f2329cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/139b1e11f6b7c2cb65d67dcd0c8fd3ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/d66caf08fa59d7baf4e57168135d11c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8b832d5ea94c0a7ea10463f1b8f0beda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/400ee67a7f55ebde748f892763b428e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a919bec2844b5a45fa53d8b6d3fc10f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/930cdd4c529dc9d00ce61515765bdb12/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ad5ac066fcef82781f7308a6792dcbd1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8a8528921ef5ee8b77beeab2e5929664/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sugar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fd7ea94f3e3a6f8150b36023391e27b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f162fd89adbfbe726af0e08fbd36e842/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/8a2e4893d83ba2b9fc9ce290dcca97d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c5f76f30440c79c526201d3a32bb6409/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sugar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cfa45e02d05f04fc3e30a9ca8962e461/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sugar/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5c4601b4d83de056ea7d4f7beb4e1dee/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sugar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7ad15a44463ee6dcf1e904e1d67fe6ee/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/sugar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3de4f6e3a013bab7487f685a8517581f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a63957fcb6807f9422ec21f0809186c7/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:3:11-46
+		INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml
+		ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml
+		ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sugar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/bfab1fba2d3f0091a6b09c37db7a1c25/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sugar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/bfab1fba2d3f0091a6b09c37db7a1c25/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/930cdd4c529dc9d00ce61515765bdb12/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/930cdd4c529dc9d00ce61515765bdb12/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ad5ac066fcef82781f7308a6792dcbd1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ad5ac066fcef82781f7308a6792dcbd1/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/930cdd4c529dc9d00ce61515765bdb12/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.example.daterangepick.MainActivity
+ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml
+INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml
+MERGED from [:rangedatepicker] /home/sugar/Downloads/pos/DateRangePick/rangedatepicker/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:rangedatepicker] /home/sugar/Downloads/pos/DateRangePick/rangedatepicker/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e78e221ee8b1e1fe820f94d1b94d8588/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e78e221ee8b1e1fe820f94d1b94d8588/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sugar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/bfab1fba2d3f0091a6b09c37db7a1c25/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/sugar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/bfab1fba2d3f0091a6b09c37db7a1c25/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cb807dbd0cf3a22a543a3d9558b4e6ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cb807dbd0cf3a22a543a3d9558b4e6ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8e83b415a464ad5dc72b56923ca4ef0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8e83b415a464ad5dc72b56923ca4ef0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/57007b7b960e467d94a3fd9d6c42494e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/57007b7b960e467d94a3fd9d6c42494e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/bb14573035cb9991750e0176d7da387b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/bb14573035cb9991750e0176d7da387b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9db74d03cc58e5c36a02e26c8287d9c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9db74d03cc58e5c36a02e26c8287d9c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5afe5c7410bb7de56ce890b03dface81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5afe5c7410bb7de56ce890b03dface81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d04d2d2ce939eaf415b3d15dfa64b270/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d04d2d2ce939eaf415b3d15dfa64b270/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4e4b106debc40ae3008e531b8f2329cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4e4b106debc40ae3008e531b8f2329cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/139b1e11f6b7c2cb65d67dcd0c8fd3ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/139b1e11f6b7c2cb65d67dcd0c8fd3ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/d66caf08fa59d7baf4e57168135d11c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/d66caf08fa59d7baf4e57168135d11c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8b832d5ea94c0a7ea10463f1b8f0beda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/8b832d5ea94c0a7ea10463f1b8f0beda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/400ee67a7f55ebde748f892763b428e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/400ee67a7f55ebde748f892763b428e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a919bec2844b5a45fa53d8b6d3fc10f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a919bec2844b5a45fa53d8b6d3fc10f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/930cdd4c529dc9d00ce61515765bdb12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/930cdd4c529dc9d00ce61515765bdb12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ad5ac066fcef82781f7308a6792dcbd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/ad5ac066fcef82781f7308a6792dcbd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8a8528921ef5ee8b77beeab2e5929664/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8a8528921ef5ee8b77beeab2e5929664/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sugar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fd7ea94f3e3a6f8150b36023391e27b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sugar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fd7ea94f3e3a6f8150b36023391e27b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f162fd89adbfbe726af0e08fbd36e842/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f162fd89adbfbe726af0e08fbd36e842/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/8a2e4893d83ba2b9fc9ce290dcca97d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/8a2e4893d83ba2b9fc9ce290dcca97d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c5f76f30440c79c526201d3a32bb6409/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c5f76f30440c79c526201d3a32bb6409/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sugar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cfa45e02d05f04fc3e30a9ca8962e461/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sugar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/cfa45e02d05f04fc3e30a9ca8962e461/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sugar/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5c4601b4d83de056ea7d4f7beb4e1dee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sugar/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5c4601b4d83de056ea7d4f7beb4e1dee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sugar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7ad15a44463ee6dcf1e904e1d67fe6ee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sugar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/7ad15a44463ee6dcf1e904e1d67fe6ee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sugar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3de4f6e3a013bab7487f685a8517581f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sugar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3de4f6e3a013bab7487f685a8517581f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a63957fcb6807f9422ec21f0809186c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/sugar/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a63957fcb6807f9422ec21f0809186c7/AndroidManifest.xml:20:5-44
+INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml
+INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml
+		ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml
+		ADDED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sugar/Downloads/pos/DateRangePick/app/src/main/AndroidManifest.xml
