@@ -47,7 +47,7 @@ calendar = (CalendarPickerView) findViewById(R.id.calendar_view);
 
 ```java
 
-calendar.init(lastYear.getTime(), nextYear.getTime(), new SimpleDateFormat("MMMM, YYYY", Locale.getDefault()));
+calendar.init(lastYear.getTime(), nextYear.getTime(), new SimpleDateFormat("MMMM, yyyy", Locale.getDefault()));
 
  ``` 
  
